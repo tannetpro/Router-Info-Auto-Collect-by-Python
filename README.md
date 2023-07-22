@@ -38,3 +38,4 @@ This script is provided as-is, without warranty or support. Use it at your own r
 The author is not responsible for any misuse, data loss, or damages caused by the script.
 
 
+Connect me if require: youtube.com/tannetpro
